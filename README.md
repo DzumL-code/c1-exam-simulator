@@ -2,8 +2,9 @@
 
 > **Status:** 🚧 In Active Development (Prototype Phase)
 
-**[DE]** Eine kostenlose Web-App zur Simulation der "Deutsch C1 Hochschule" Prüfung (Logik & Zeitmanagement).
-**[EN]** A web-based simulation platform for the German C1 Hochschule exam, designed to democratize exam preparation.
+-**[DE]** Eine kostenlose Web-App zur Simulation der "Deutsch C1 Hochschule" Prüfung (Logik & Zeitmanagement).
+
+-**[EN]** A web-based simulation platform for the German C1 Hochschule exam, designed to democratize exam preparation.
 
 ---
 
